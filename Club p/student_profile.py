@@ -1,0 +1,5 @@
+name=str("Jackson")
+scool=str("JXIHS")
+age=int("14")
+grade=("9th")
+message= ("My neme is Jackson and I am 14 years old 9th grade at JXIHS)
